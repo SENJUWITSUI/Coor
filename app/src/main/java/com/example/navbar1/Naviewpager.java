@@ -10,7 +10,6 @@ import com.example.navbar1.Fragments.Completed;
 import com.example.navbar1.Fragments.Pending;
 import com.example.navbar1.Fragments.Verified;
 
-
 public class Naviewpager extends FragmentStateAdapter {
     public Naviewpager(@NonNull FragmentActivity fragmentActivity) {
         super(fragmentActivity);

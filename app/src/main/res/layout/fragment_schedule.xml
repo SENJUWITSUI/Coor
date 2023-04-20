@@ -71,7 +71,7 @@
 
 
             <com.google.android.material.tabs.TabLayout
-                android:id="@+id/tabs"
+                android:id="@+id/tabs1"
                 android:layout_width="match_parent"
                 android:layout_height="70dp"
 
@@ -132,6 +132,12 @@
                 android:background="@color/white" />
 <!--            </HorizontalScrollView>-->
 <!--            </LinearLayout>-->
+
+<!--            <FrameLayout-->
+<!--                android:id="@+id/fragment_container1"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content" />-->
+
         </androidx.cardview.widget.CardView>
 
 
